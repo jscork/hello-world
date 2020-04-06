@@ -1,2 +1,3 @@
 # hello-world
-Learning repository
+
+I'm new to this, but learning fast.
